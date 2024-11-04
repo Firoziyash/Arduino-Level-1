@@ -7,8 +7,7 @@ Welcome to **Arduino-Level-1**! This repository is designed for beginners lookin
 1. [Getting Started](#getting-started)
 2. [Project List](#project-list)
 3. [Installation and Usage](#installation-and-usage)
-4. [Contributing](#contributing)
-5. [License](#license)
+4. [License](#license)
 
 ## Getting Started
 
@@ -62,5 +61,6 @@ Here’s a list of beginner projects included in this repository:
 4. Connect the components as shown in the project instructions.
 5. Upload the code to your Arduino and observe the output!
 
-MIT License [Open Source Free to use for everyone]
+## License
+MIT License [Open Source, Free to Use for Everyone].
 **Copyright (c) 2024 Firoziyash**
